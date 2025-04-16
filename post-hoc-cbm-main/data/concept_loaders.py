@@ -7,6 +7,7 @@ import numpy as np
 from PIL import Image
 from torch.utils.data import DataLoader
 from .constants import CUB_PROCESSED_DIR
+from .my_dataset_loader import get_loader as my_dataset_loader
 
 
 def cub_concept_loaders(preprocess, n_samples, batch_size, num_workers, seed):
@@ -163,9 +164,13 @@ def get_concept_loaders(dataset_name, preprocess, n_samples=50, batch_size=100, 
     
     elif dataset_name == "derm7pt":
         return derm7pt_concept_loaders(preprocess, n_samples, batch_size, num_workers, seed)
-    
+
     elif dataset_name == "broden":
         return broden_concept_loaders(preprocess, n_samples, batch_size, num_workers, seed)
+
+    elif dataset_name == "my_dataset":
+        return my_dataset_loader(preprocess, n_samples, batch_size, num_workers, seed)
+
     else:
         raise ValueError(f"Dataset {dataset_name} not supported")
     

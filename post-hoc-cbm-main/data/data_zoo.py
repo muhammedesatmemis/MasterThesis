@@ -63,6 +63,9 @@ def get_dataset(args, preprocess=None):
         class_to_idx = {v:k for k,v in idx_to_class.items()}
         classes = list(class_to_idx.keys())
 
+    elif args.dataset == "my_dataset":  # 🚀 Özel dataset ekleniyor
+        from .my_dataset_loader import load_my_dataset  # 📌 Yeni loader ekledik
+        train_loader, test_loader, idx_to_class, classes = load_my_dataset(preprocess)
 
     else:
         raise ValueError(args.dataset)

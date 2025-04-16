@@ -1,0 +1,9 @@
+Cabrio
+Coupe
+Crossover
+Hatchback
+Minivan
+Pickup
+Sedan
+StationWagon
+SUV

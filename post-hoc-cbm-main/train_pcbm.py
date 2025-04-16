@@ -96,10 +96,8 @@ def main(args, concept_bank, backbone, preprocess):
     torch.save(posthoc_layer, model_path)
 
     # Again, a sad hack.. Open to suggestions
-    run_info_file = model_path.replace("pcbm", "run_info-pcbm")
-    run_info_file = run_info_file.replace(".ckpt", ".pkl")
-    run_info_file = os.path.join(args.out_dir, run_info_file)
-    
+    run_info_file = model_path.replace("pcbm", "run_info-pcbm").replace(".ckpt", ".pkl")
+
     with open(run_info_file, "wb") as f:
         pickle.dump(run_info, f)
 

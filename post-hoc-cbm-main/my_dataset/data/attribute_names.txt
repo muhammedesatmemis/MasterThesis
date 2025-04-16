@@ -1,0 +1,13 @@
+2 Kapılı
+4 Kapılı
+Yüksek Tavan
+Düşük Tavan
+Uzun Bagaj
+Kısa Bagaj
+Yüksek Gövde
+Alçak Gövde
+Sportif Tasarım
+Arkası Açık Kasa
+Tavan Açılır
+Küçük Araç
+Büyük Araç
