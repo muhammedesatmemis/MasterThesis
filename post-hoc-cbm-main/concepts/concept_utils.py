@@ -116,7 +116,7 @@ def get_cavs(X_train, y_train, X_val, y_val, C):
     return concept_info
 
 
-def learn_concept_bank(pos_loader, neg_loader, backbone, n_samples, C, device="cuda"):
+def learn_concept_bank(pos_loader, neg_loader, backbone, n_samples, C, device):
     """Learning CAVs and related margin stats.
     Args:
         pos_loader (torch.utils.data.DataLoader): A PyTorch DataLoader yielding positive samples for each concept
