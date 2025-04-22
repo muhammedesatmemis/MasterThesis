@@ -10,9 +10,9 @@
 10 Minivan/minivan2.jpg
 11 Pickup/pickup2.jpg
 12 Pickup/pickup1.jpg
-15 Sedan/sedan1.jpg
-16 Sedan/sedan2.jpg
-17 StationWagon/stationWagon1.jpg
-18 StationWagon/stationWagon2.jpg
-13 SUV/suv2.jpg
-14 SUV/suv1.jpg
+13 Sedan/sedan1.jpg
+14 Sedan/sedan2.jpg
+15 StationWagon/stationWagon1.jpg
+16 StationWagon/stationWagon2.jpg
+17 SUV/suv2.jpg
+18 SUV/suv1.jpg

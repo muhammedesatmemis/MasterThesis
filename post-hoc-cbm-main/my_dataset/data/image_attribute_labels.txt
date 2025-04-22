@@ -1,18 +1,96 @@
-Sedan Sedan/sedan1.jpg 0 1 0 1 1 0 0 1 0 0 0 0 1
-Sedan Sedan/sedan2.jpg 0 1 0 1 1 0 0 1 0 0 0 0 1
-SUV SUV/suv2.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1
-SUV SUV/suv1.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1
-Coupe Coupe/coupe1.jpg 1 0 0 1 0 1 0 1 1 0 0 1 0
-Coupe Coupe/coupe2.jpg 1 0 0 1 0 1 0 1 1 0 0 1 0
-Crossover Crossover/crossover1.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1
-Crossover Crossover/crossover2.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1
-Hatchback Hatchback/hatch1.jpg 0 1 1 0 0 1 0 1 0 0 0 1 0
-Hatchback Hatchback/hatch2.jpg 0 1 1 0 0 1 0 1 0 0 0 1 0
-Minivan Minivan/minivan1.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1
-Minivan Minivan/minivan2.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1
-Pickup Pickup/pickup2.jpg 0 1 1 0 1 0 1 0 0 1 0 0 1
-Pickup Pickup/pickup1.jpg 0 1 1 0 1 0 1 0 0 1 0 0 1
-StationWagon StationWagon/stationWagon1.jpg 0 1 1 0 1 0 0 1 0 0 0 0 1
-StationWagon StationWagon/stationWagon2.jpg 0 1 1 0 1 0 0 1 0 0 0 0 1
-Cabrio Cabrio/cabrio1.jpg 1 0 0 1 0 1 0 1 1 0 1 1 0
-Cabrio Cabrio/cabrio2.jpg 1 0 0 1 0 1 0 1 1 0 1 1 0
+Cabrio Cabrio/cabrio1.jpg 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/cabrio2.jpg 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_1.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_2.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_3.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_4.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_5.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_6.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_7.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_8.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Cabrio Cabrio/img_9.png 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 0
+Coupe Coupe/coupe1.jpg 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/coupe2.jpg 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_1.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_2.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_3.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_4.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_5.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_6.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_7.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_8.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Coupe Coupe/img_9.png 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 0 0
+Crossover Crossover/crossover1.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/crossover2.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_1.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_2.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_3.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_4.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_5.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_6.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_7.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_8.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Crossover Crossover/img_9.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 1
+Hatchback Hatchback/hatch1.jpg 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/hatch2.jpg 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_1.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_2.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_3.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_4.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_5.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_6.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_7.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_8.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Hatchback Hatchback/img_9.png 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0
+Pickup Pickup/img.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_1.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_2.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_3.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_4.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_5.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_6.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_7.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_8.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/img_9.png 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/pickup1.jpg 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+Pickup Pickup/pickup2.jpg 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 1
+SUV SUV/img.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_1.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_2.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_3.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_4.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_5.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_6.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_7.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_8.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/img_9.png 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/suv1.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+SUV SUV/suv2.jpg 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+Sedan Sedan/img.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_1.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_2.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_3.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_4.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_5.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_6.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_7.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_8.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/img_9.png 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/sedan1.jpg 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+Sedan Sedan/sedan2.jpg 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0
+StationWagon StationWagon/img.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_1.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_2.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_3.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_4.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_5.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_6.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_7.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_8.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/img_9.png 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/stationWagon1.jpg 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0
+StationWagon StationWagon/stationWagon2.jpg 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0

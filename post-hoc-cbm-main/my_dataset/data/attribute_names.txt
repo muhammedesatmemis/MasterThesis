@@ -11,3 +11,15 @@ Arkası Açık Kasa
 Tavan Açılır
 Küçük Araç
 Büyük Araç
+
+-------
+"2door", "4door", "tall_roof", "short_roof", "long_trunk", "short_trunk",
+"2 kapılı", "4 kapılı", "uzun_tavan", "kısa_tavan", "uzun_bagaj", "kısa_bagaj",
+"high_body", "low_body", "sporty", "open_back", "sunroof", "small", "large",
+"yüksek_gövde", "alçak_gövde", "sportif", "açık_arka", "güneş_tavanı", "küçük", "büyük",
+"compact", "boxy", "sloped_rear", "roof_rails", "offroad", "flat_front", "luxury"
+"kompakt", "kutulu", "eğimli_arka", "tavan_rayları", "arazi_yolu", "düz_ön", "lüks"
+-----------------------
+"2 kapılı", "4 kapılı", "uzun_tavan", "kısa_tavan", "uzun_bagaj", "kısa_bagaj",
+"yüksek_gövde", "alçak_gövde", "sportif", "açık_arka", "güneş_tavanı", "küçük", "büyük",
+"kompakt", "kutulu", "eğimli_arka", "tavan_rayları", "arazi_yolu", "düz_ön", "lüks"
